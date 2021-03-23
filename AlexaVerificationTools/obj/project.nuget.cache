@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXLHZ0rt8woaittYBwHIhbtJHS7/ZKuymCuw0EaxlG9xIuvLqmIKPavd3zrCjM5ZyU89aP12u4c8IZgBLd2LAw==",
+  "success": true,
+  "projectFilePath": "E:\\Documents\\1_Code\\Tutorials\\AlexaVerificationTools\\AlexaVerificationTools\\AlexaVerificationTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\Brandon\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
