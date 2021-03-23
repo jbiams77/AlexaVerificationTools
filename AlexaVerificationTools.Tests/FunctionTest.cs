@@ -24,5 +24,6 @@ namespace AlexaVerificationTools.Tests
 
             Assert.Equal("HELLO WORLD", upperCase);
         }
+
     }
 }

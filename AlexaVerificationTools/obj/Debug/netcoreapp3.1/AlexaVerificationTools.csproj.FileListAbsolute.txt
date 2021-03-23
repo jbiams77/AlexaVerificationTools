@@ -1,0 +1,15 @@
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\bin\Debug\netcoreapp3.1\AlexaVerificationTools.deps.json
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\bin\Debug\netcoreapp3.1\AlexaVerificationTools.runtimeconfig.json
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\bin\Debug\netcoreapp3.1\AlexaVerificationTools.runtimeconfig.dev.json
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\bin\Debug\netcoreapp3.1\AlexaVerificationTools.dll
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\bin\Debug\netcoreapp3.1\AlexaVerificationTools.pdb
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\obj\Debug\netcoreapp3.1\AlexaVerificationTools.csprojAssemblyReference.cache
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\obj\Debug\netcoreapp3.1\AlexaVerificationTools.AssemblyInfoInputs.cache
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\obj\Debug\netcoreapp3.1\AlexaVerificationTools.AssemblyInfo.cs
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\obj\Debug\netcoreapp3.1\AlexaVerificationTools.csproj.CoreCompileInputs.cache
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\obj\Debug\netcoreapp3.1\AlexaVerificationTools.csproj.CopyComplete
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\obj\Debug\netcoreapp3.1\AlexaVerificationTools.dll
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\obj\Debug\netcoreapp3.1\AlexaVerificationTools.pdb
+E:\Documents\1_Code\Tutorials\AlexaVerificationTools\AlexaVerificationTools\obj\Debug\netcoreapp3.1\AlexaVerificationTools.genruntimeconfig.cache
