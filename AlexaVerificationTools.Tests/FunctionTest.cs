@@ -25,16 +25,5 @@ namespace AlexaVerificationTools.Tests
             Assert.Equal("HELLO WORLD", upperCase);
         }
 
-        [Fact]
-        public void TestToLowerFunction()
-        {
-
-            // Invoke the lambda function and confirm the string was upper cased.
-            var function = new Function();
-            var context = new TestLambdaContext();
-            var upperCase = function.FunctionHandler("hello world", context);
-
-            Assert.Equal("hello world", upperCase);
-        }
     }
 }
