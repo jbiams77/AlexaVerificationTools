@@ -34,7 +34,7 @@ namespace AlexaVerificationTools.Tests
             var context = new TestLambdaContext();
             var upperCase = function.FunctionHandler("hello world", context);
             Console.WriteLine("TESTING THE TESTS");
-            Assert.Equal("heLLO WORLD", upperCase);
+            Assert.Equal("HELLO WORLD", upperCase);
         }
 
     }
